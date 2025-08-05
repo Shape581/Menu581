@@ -15,7 +15,7 @@
 ### 🧰・Fonctionnalité
 
 - Possède une Config pour configurer la touche par default sur P ou Y si AAMenu est présent
-- Possède des un menu pour configurer le panel en jeux
+- Possède un menu pour configurer le panel en jeux
 - Rassemble tout mes plugins qui en sont fait pour dans le menu principal
 
 ### 🔗・Téléchargement
